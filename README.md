@@ -8,7 +8,6 @@ This project consists of Power BI dashboards designed to visualize and analyze h
 - [Data Source](#data-source)
 - [Dashboards](#dashboards)
 - [How to Use](#how-to-use)
-- [Contact](#contact)
 
 ## Description
 
@@ -41,7 +40,3 @@ This project aims to provide actionable insights into hospitality data through i
 2. **Open in Power BI Desktop:** Open the downloaded `.pbix` file using Microsoft Power BI Desktop.
 3. **Interact with the dashboards:**  Use the interactive features of the dashboards to explore the data, filter by different criteria, and drill down for more detailed information.  (Mention specific interactive features if relevant, like slicers, tooltips, etc.)
 4. **(Optional) Refresh the data:** If the data source is dynamic, you may need to refresh the data within Power BI Desktop to see the latest information. (Explain how to do this if needed).
-
-## Contact
-
-Madhav Krishna - [krishnamadhav.one@gmail.com](mailto:krishnamadhav.one@gmail.com) - [LinkedIn](linkedin.com/in/madhav09)
